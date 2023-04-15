@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "Minecraft",
+    "description": "Enjoy a world of minecraft",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Billdied"
     },
     "icons":
     {
@@ -17,10 +17,10 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "documentation_Mod_music_track_1.mp3",
+                "documentation_Mod_music_track_2.mp3",
+                "documentation_Mod_music_track_3.mp3",
+                "documentation_Mod_music_track_4.mp3"
             ],
             "browser_sounds":
             {
